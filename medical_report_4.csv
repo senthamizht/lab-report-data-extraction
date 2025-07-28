@@ -1,0 +1,19 @@
+Test Name,Result,Unit,Reference Range,Flag
+Hemoglobin (Hb),12.5,g/dL,13.0 - 17.0,Low
+Total RBC count,5.2,mill/cumm,4.5 - 5.5,Normal
+Packed Cell Volume (PCV),57.5,%,40 - 50,High
+Mean Corpuscular Volume (MCV),87.75,fL,83 - 101,Normal
+MCH,27.2,pg,27 - 32,Normal
+MCHC,32.8,g/dL,32.5 - 34.5,Normal
+RDW,13.6,%,11.6 - 14.0,Normal
+Neutrophils,60,%,50 - 62,Normal
+Lymphocytes,31,%,20 - 40,Normal
+Eosinophils,1,%,00 - 06,Normal
+Monocytes,7,%,00 - 10,Normal
+Basophils,1,%,00 - 02,Normal
+Absolute Neutrophils,6000,cells/mcL,1500 - 7500,Normal
+Absolute Lymphocytes,3100,cells/mcL,1300 - 3500,Normal
+Absolute Eosinophils,100,cells/mcL,00 - 500,Normal
+Absolute Monocytes,700,cells/mcL,200 - 950,Normal
+Absolute Basophils,100,cells/mcL,00 - 300,Normal
+Platelet Count,320000,cumm,150000 - 410000,Normal
