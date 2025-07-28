@@ -28,8 +28,8 @@ This project is a lightweight Python server built to **extract structured data f
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/lab-report-ocr.git
-cd lab-report-ocr
+git clone https://github.com/senthamizht/lab-report-data-extraction.git
+cd lab-report-data-extraction
 
 # Create a virtual environment
 python -m venv venv
